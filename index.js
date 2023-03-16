@@ -103,18 +103,21 @@ const company = {
       ShareClass: "Ordinary",
       ShareCurrency: "US Dollar",
       ShareQty: "500",
+      widoId: "9822",
     },
     {
       Person: "4578",
       ShareClass: "Preferred",
       ShareCurrency: "Singapore Dollar",
       ShareQty: "250",
+      widoId: "2343",
     },
     {
       Person: "1143",
       ShareClass: "Ordinary",
       ShareCurrency: "Euro",
       ShareQty: "150",
+      widoId: "9678",
     },
   ],
 };
